@@ -1,5 +1,4 @@
-![](https://imgur.com/a/lHyaR4g)
-
+![alt text](https://imgur.com/a/lHyaR4g)
 
 # Data-Challenge-UMDOTS-
 Repo for UMD Data Science Challenge
